@@ -1,0 +1,943 @@
+﻿Log file open, 06/24/20 13:12:49
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: InfiniteMatrix
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-2142963943) SRandInit(-2142963943).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.569156
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +5:30, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  3.817s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am NIKHIL-PC (192.168.0.90:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line:  
+LogInit: Base Directory: D:/Tools/UE/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.002s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2020.06.24-07.42.54:425][  0]LogInit: Selected Device Profile: [Windows]
+[2020.06.24-07.42.54:425][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.06.24-07.42.54:665][  0]LogInit: Computer: NIKHIL-PC
+[2020.06.24-07.42.54:665][  0]LogInit: User: bunny
+[2020.06.24-07.42.54:665][  0]LogInit: CPU Page size=4096, Cores=6
+[2020.06.24-07.42.54:665][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.06.24-07.42.54:666][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2020.06.24-07.42.54:666][  0]LogMemory: Platform Memory Stats for Windows
+[2020.06.24-07.42.54:666][  0]LogMemory: Process Physical Memory: 274.65 MB used, 274.66 MB peak
+[2020.06.24-07.42.54:666][  0]LogMemory: Process Virtual Memory: 271.40 MB used, 271.40 MB peak
+[2020.06.24-07.42.54:666][  0]LogMemory: Physical Memory: 5045.95 MB used,  3001.29 MB free, 8047.24 MB total
+[2020.06.24-07.42.54:666][  0]LogMemory: Virtual Memory: 4799.52 MB used,  3001.29 MB free, 134217728.00 MB total
+[2020.06.24-07.42.55:459][  0]LogInit: Using OS detected language (en-US).
+[2020.06.24-07.42.55:459][  0]LogInit: Using OS detected locale (en-IN).
+[2020.06.24-07.42.55:770][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.06.24-07.42.56:566][  0]LogStreaming: Display: Took  1.107s to EndInitTextLocalization.
+[2020.06.24-07.42.56:566][  0]LogInit: Setting process to per monitor DPI aware
+[2020.06.24-07.42.56:944][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.06.24-07.42.56:944][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.06.24-07.43.00:601][  0]LogD3D11RHI: D3D11 adapters:
+[2020.06.24-07.43.00:705][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050 Ti' (Feature Level 11_0)
+[2020.06.24-07.43.00:705][  0]LogD3D11RHI:       4021/0/4023 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.06.24-07.43.00:729][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2020.06.24-07.43.00:729][  0]LogD3D11RHI:       128/0/4023 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.06.24-07.43.00:733][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.06.24-07.43.00:733][  0]LogD3D11RHI:       0/0/4023 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.06.24-07.43.00:733][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.06.24-07.43.00:758][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.06.24-07.43.00:758][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8c (for the marketing name, search the web for "GPU Device Id")
+[2020.06.24-07.43.00:758][  0]LogWindows: EnumDisplayDevices:
+[2020.06.24-07.43.00:758][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2020.06.24-07.43.00:758][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.06.24-07.43.00:758][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.06.24-07.43.00:758][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2020.06.24-07.43.00:758][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050 Ti
+[2020.06.24-07.43.00:770][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2020.06.24-07.43.00:770][  0]LogD3D11RHI:      Driver Date: Unknown
+[2020.06.24-07.43.00:770][  0]LogRHI: Texture pool is 2814 MB (70% of 4021 MB)
+[2020.06.24-07.43.00:816][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2020.06.24-07.43.00:816][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2020.06.24-07.43.00:816][  0]LogD3D11RHI: Async texture creation enabled
+[2020.06.24-07.43.00:853][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.06.24-07.43.00:854][  0]LogShaderCompilers: Guid format shader working directory is -1 characters bigger than the processId version (../../../../../../Unreal/InfiniteMatrixStarter/Intermediate/Shaders/WorkingDirectory/18760/).
+[2020.06.24-07.43.00:854][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/bunny/AppData/Local/Temp/UnrealShaderWorkingDir/868D2F344A8535EDBC9C4D9BF2587242/'.
+[2020.06.24-07.43.01:964][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2020.06.24-07.43.01:975][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2020.06.24-07.43.01:985][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2020.06.24-07.43.01:997][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2020.06.24-07.43.02:018][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2020.06.24-07.43.02:029][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2020.06.24-07.43.02:039][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2020.06.24-07.43.02:049][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2020.06.24-07.43.02:054][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2020.06.24-07.43.02:064][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2020.06.24-07.43.02:074][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2020.06.24-07.43.02:084][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2020.06.24-07.43.02:093][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2020.06.24-07.43.02:103][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2020.06.24-07.43.02:113][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2020.06.24-07.43.02:133][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2020.06.24-07.43.02:133][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2020.06.24-07.43.02:172][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.06.24-07.43.02:173][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2020.06.24-07.43.02:293][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2020.06.24-07.43.02:303][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2020.06.24-07.43.02:314][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2020.06.24-07.43.02:324][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2020.06.24-07.43.02:334][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2020.06.24-07.43.02:350][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2020.06.24-07.43.02:350][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.06.24-07.43.03:117][  0]LogXGEController: Cleaning working directory: C:/Users/bunny/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.06.24-07.43.03:117][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.06.24-07.43.03:117][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.06.24-07.43.03:117][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.06.24-07.43.05:334][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.06.24-07.43.05:605][  0]LogDerivedDataCache: Loaded boot cache 0.27s 74MB C:/Users/bunny/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2020.06.24-07.43.05:605][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/bunny/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2020.06.24-07.43.05:605][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Unreal/InfiniteMatrixStarter/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.06.24-07.43.05:605][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.06.24-07.43.05:605][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Unreal/InfiniteMatrixStarter/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.06.24-07.43.05:605][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.06.24-07.43.05:656][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.06.24-07.43.05:668][  0]LogDerivedDataCache: Using Local data cache path C:/Users/bunny/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.06.24-07.43.05:668][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.06.24-07.43.05:668][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.06.24-07.43.05:677][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.06.24-07.43.05:678][  0]LogSlate: Using Freetype 2.6.0
+[2020.06.24-07.43.05:709][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.06.24-07.43.05:709][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.06.24-07.43.12:855][  0]LogAssetRegistry: FAssetRegistry took 0.0253 seconds to start up
+[2020.06.24-07.43.13:839][  0]LogInit: Selected Device Profile: [Windows]
+[2020.06.24-07.43.14:418][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2020.06.24-07.43.14:420][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2020.06.24-07.43.14:420][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.06.24-07.43.14:420][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2020.06.24-07.43.14:420][  0]LogMeshReduction: No automatic mesh merging module available
+[2020.06.24-07.43.14:420][  0]LogMeshMerging: No automatic mesh merging module available
+[2020.06.24-07.43.14:446][  0]LogNetVersion: InfiniteMatrix , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1176737021)
+[2020.06.24-07.43.15:309][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.079873 seconds
+[2020.06.24-07.43.15:315][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2020.06.24-07.43.15:315][  0]LogUObjectAllocator: 7314312 out of 0 bytes used by permanent object pool.
+[2020.06.24-07.43.15:315][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.06.24-07.43.29:339][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.06.24-07.43.29:363][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.06.24-07.43.29:874][  0]SourceControl: Source control is disabled
+[2020.06.24-07.43.29:874][  0]SourceControl: Source control is disabled
+[2020.06.24-07.43.29:938][  0]SourceControl: Source control is disabled
+[2020.06.24-07.43.29:981][  0]SourceControl: Source control is disabled
+[2020.06.24-07.43.30:937][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.06.24-07.43.31:159][  0]LogOcInput: OculusInput pre-init called
+[2020.06.24-07.43.31:470][  0]LogEngine: Initializing Engine...
+[2020.06.24-07.43.31:487][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.06.24-07.43.31:488][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2020.06.24-07.43.31:489][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2020.06.24-07.43.31:837][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.06.24-07.43.31:863][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.06.24-07.43.31:987][  0]LogInit: FAudioDevice initialized.
+[2020.06.24-07.43.32:191][  0]LogDerivedDataCache: Saved boot cache 0.20s 74MB C:/Users/bunny/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2020.06.24-07.43.32:207][  0]LogInit: Texture streaming: Enabled
+[2020.06.24-07.43.32:319][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.06.24-07.43.32:430][  0]LogInit: Transaction tracking system initialized
+[2020.06.24-07.43.32:641][  0]BlueprintLog: New page: Editor Load
+[2020.06.24-07.43.33:530][  0]LocalizationService: Localization service is disabled
+[2020.06.24-07.43.34:153][  0]LogConsoleResponse: Display: 
+[2020.06.24-07.43.34:918][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.06.24-07.43.34:918][  0]LogCook: Display: Mobile HDR setting 1
+[2020.06.24-07.43.34:918][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2020.06.24-07.43.34:918][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2020.06.24-07.43.34:918][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2020.06.24-07.43.35:687][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal/InfiniteMatrixStarter/Content/' took 0.02s
+[2020.06.24-07.43.37:471][  0]SourceControl: Source control is disabled
+[2020.06.24-07.43.37:554][  0]Cmd: MAP LOAD FILE="../../../../../../Unreal/InfiniteMatrixStarter/Content/InfiniteMatrix/Maps/TutorialMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.06.24-07.43.37:561][  0]LightingResults: New page: Lighting Build
+[2020.06.24-07.43.37:621][  0]MapCheck: New page: Map Check
+[2020.06.24-07.43.37:621][  0]LightingResults: New page: Lighting Build
+[2020.06.24-07.43.37:684][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000244d75c2910, Size=8, Default__BP_Tunnel_C Function /Game/InfiniteMatrix/Blueprints/BP_Tunnel.BP_Tunnel_C:ExecuteUbergraph_BP_Tunnel
+[2020.06.24-07.43.37:685][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000244d75c2910, Size=8
+[2020.06.24-07.43.37:685][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000244d75c2910, Size=8, Default__BP_Tunnel_C Function /Engine/Transient.REINST_BP_Tunnel_C_1:ExecuteUbergraph_BP_Tunnel
+[2020.06.24-07.43.37:687][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000244d75c3260, Size=8, Default__BP_Tunnel_C Function /Game/InfiniteMatrix/Blueprints/BP_Tunnel.BP_Tunnel_C:ExecuteUbergraph_BP_Tunnel
+[2020.06.24-07.43.37:744][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000244d86b4fe0, Size=220, Default__BP_Player_C Function /Game/InfiniteMatrix/Blueprints/BP_Player.BP_Player_C:ExecuteUbergraph_BP_Player
+[2020.06.24-07.43.37:747][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000244d86b4fe0, Size=220
+[2020.06.24-07.43.37:747][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000244d86b4fe0, Size=220, Default__BP_Player_C Function /Engine/Transient.REINST_BP_Player_C_3:ExecuteUbergraph_BP_Player
+[2020.06.24-07.43.37:749][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000244ee0d01e0, Size=220, Default__BP_Player_C Function /Game/InfiniteMatrix/Blueprints/BP_Player.BP_Player_C:ExecuteUbergraph_BP_Player
+[2020.06.24-07.43.37:929][  0]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 64X64)
+[2020.06.24-07.43.37:929][  0]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 256X256)
+[2020.06.24-07.43.37:929][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 256X256)
+[2020.06.24-07.43.37:929][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 64X64)
+[2020.06.24-07.43.37:929][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 128X128)
+[2020.06.24-07.43.37:929][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 32X32)
+[2020.06.24-07.43.37:929][  0]LogTexture: Display: Building textures: T_Noise (AutoDXT, 2048X2048)
+[2020.06.24-07.43.37:929][  0]LogStaticMesh: Building static mesh SM_Tunnel...
+[2020.06.24-07.43.38:075][  0]LogTexture: Display: Building textures: T_Binary (AutoDXT, 2048X2048)
+[2020.06.24-07.43.38:075][  0]LogStaticMesh: Built static mesh [0.14s] /Game/InfiniteMatrix/Meshes/SM_Tunnel.SM_Tunnel
+[2020.06.24-07.43.38:731][  0]LogMaterial: Missing cached shader map for material M_TunnelBase, compiling. 
+[2020.06.24-07.43.38:899][  0]LogAIModule: Creating AISystem for world TutorialMap
+[2020.06.24-07.43.38:909][  0]LogShaderCompilers: Display: Shaders left to compile 5
+[2020.06.24-07.43.38:909][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.06.24-07.43.38:923][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000244d75c2910, Size=8
+[2020.06.24-07.43.38:923][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000244d86b4fe0, Size=220
+[2020.06.24-07.43.38:923][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.06.24-07.43.38:960][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 37.598ms to complete.
+[2020.06.24-07.43.38:960][  0]LogFileHelpers: Loading map 'TutorialMap' took 1.407
+[2020.06.24-07.43.39:501][  0]LogCollectionManager: Loaded 0 collections in 0.001398 seconds
+[2020.06.24-07.43.39:609][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal/InfiniteMatrixStarter/Saved/Collections/' took 0.01s
+[2020.06.24-07.43.39:609][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal/InfiniteMatrixStarter/Content/Developers/bunny/Collections/' took 0.01s
+[2020.06.24-07.43.39:609][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal/InfiniteMatrixStarter/Content/Collections/' took 0.01s
+[2020.06.24-07.43.39:609][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2020.06.24-07.43.39:621][  0]LogContentBrowser: Native class hierarchy populated in 0.0118 seconds. Added 2452 classes and 558 folders.
+[2020.06.24-07.43.39:673][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.06.24-07.43.42:442][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.06.24-07.43.42:504][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2020.06.24-07.43.42:654][  0]LogSlate: Took 0.018502 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.06.24-07.43.42:679][  0]LogSlate: Took 0.022005 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.06.24-07.43.42:706][  0]LogSlate: Took 0.017761 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.06.24-07.43.42:870][  0]LogRenderer: Reallocating scene render targets to support 784x460 Format 10 NumSamples 1 (Frame:1).
+[2020.06.24-07.43.43:161][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.06.24-07.43.43:161][  0]LogLoad: (Engine Initialization) Total time: 66.57 seconds
+[2020.06.24-07.43.43:161][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.06.24-07.43.43:610][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.06.24-07.43.44:838][  4]LogAssetRegistry: Asset discovery search completed in 32.0038 seconds
+[2020.06.24-07.43.44:839][  4]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2020.06.24-07.43.44:845][  4]LogCollectionManager: Fixed up redirectors for 0 collections in 0.004978 seconds (updated 0 objects)
+[2020.06.24-07.43.47:867][ 13]LogSlate: Took 0.027035 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.06.24-07.44.52:978][802]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.24-07.44.53:011][804]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.06.24-07.44.53:030][804]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.24-07.44.53:031][804]PIE: New page: PIE session: TutorialMap (24-Jun-2020 6:44:53 pm)
+[2020.06.24-07.44.53:031][804]LogPlayLevel: Creating play world package: /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2020.06.24-07.44.53:032][804]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001144s)
+[2020.06.24-07.44.53:032][804]LogAIModule: Creating AISystem for world TutorialMap
+[2020.06.24-07.44.53:033][804]LogPlayLevel: PIE: World Init took: (0.000527s)
+[2020.06.24-07.44.53:033][804]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap to /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.001798s)
+[2020.06.24-07.44.53:053][804]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.06.24-07.44.53:081][804]LogInit: FAudioDevice initialized.
+[2020.06.24-07.44.53:187][804]LogLoad: Game class is 'GM_Tutorial_C'
+[2020.06.24-07.44.53:189][804]LogWorld: Bringing World /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 60) at 2020.06.24-13.14.53
+[2020.06.24-07.44.53:189][804]LogWorld: Bringing up level for play took: 0.000459
+[2020.06.24-07.44.53:199][804]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 11 classes and 0 folders.
+[2020.06.24-07.44.53:222][804]PIE: Play in editor start time for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap 0.535
+[2020.06.24-07.44.55:781][952]LogSlate: Window 'InfiniteMatrix Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.06.24-07.44.56:541][994]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.06.24-07.44.56:556][994]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.24-07.44.56:557][994]PIE: New page: PIE session: TutorialMap (24-Jun-2020 6:44:56 pm)
+[2020.06.24-07.44.56:557][994]LogPlayLevel: Creating play world package: /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2020.06.24-07.44.56:558][994]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001125s)
+[2020.06.24-07.44.56:558][994]LogAIModule: Creating AISystem for world TutorialMap
+[2020.06.24-07.44.56:558][994]LogPlayLevel: PIE: World Init took: (0.000459s)
+[2020.06.24-07.44.56:558][994]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap to /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.001685s)
+[2020.06.24-07.44.56:576][994]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.06.24-07.44.56:602][994]LogInit: FAudioDevice initialized.
+[2020.06.24-07.44.56:703][994]LogLoad: Game class is 'GM_Tutorial_C'
+[2020.06.24-07.44.56:705][994]LogWorld: Bringing World /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 60) at 2020.06.24-13.14.56
+[2020.06.24-07.44.56:705][994]LogWorld: Bringing up level for play took: 0.000703
+[2020.06.24-07.44.56:710][994]PIE: Play in editor start time for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap 0.023
+[2020.06.24-07.45.04:184][388]LogRenderer: Reallocating scene render targets to support 1536x840 Format 10 NumSamples 1 (Frame:396).
+[2020.06.24-07.45.11:613][825]LogSlate: Window 'InfiniteMatrix Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.06.24-07.45.17:242][157]LogSlate: Took 0.001146 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.06.24-07.45.17:576][157]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 116 classes and 0 folders.
+[2020.06.24-07.45.17:870][157]LogUObjectGlobals: Created PersistentFrame Addr=0x00000244f8ba9278, Size=4, Default__SKEL_PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.SKEL_PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2020.06.24-07.45.17:870][157]LogUObjectGlobals: Created PersistentFrame Addr=0x00000244f8ba9270, Size=4, Default__PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2020.06.24-07.45.18:331][157]LogSlate: Took 0.023530 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.06.24-07.45.41:603][501]LogSlate: Took 0.000284 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.06.24-07.45.59:637][408]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2020.06.24-07.45.59:736][408]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.InfiniteMatrix
+[2020.06.24-07.45.59:736][408]LogTemp: CWD: D:\Tools\UE\UE_4.19\Engine\Binaries\DotNET\IOS
+[2020.06.24-07.45.59:736][408]LogTemp: Initial Dir: D:\Tools\UE\UE_4.19
+[2020.06.24-07.45.59:736][408]LogTemp: Env CWD: D:\Tools\UE\UE_4.19\Engine\Binaries\DotNET\IOS
+[2020.06.24-07.45.59:736][408]LogTemp: BranchPath = NIKHIL-PC/D/Tools/UE/UE_4.19/Engine/Binaries --- GameBranchPath = NIKHIL-PC/D/Tools/UE/UE_4.19/Engine/Binaries
+[2020.06.24-07.45.59:736][408]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\bunny\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2020.06.24-07.46.11:124][921]LogSlate: Window 'Project Settings' being destroyed
+[2020.06.24-07.46.11:136][921]LogSlate: Window 'Project Settings' being destroyed
+[2020.06.24-07.48.08:587][786]LogMaterial: Missing cached shader map for material M_TunnelBase, compiling. 
+[2020.06.24-07.48.09:024][786]LogMaterial: Missing cached shader map for material M_TunnelBase, compiling. 
+[2020.06.24-07.48.09:063][786]LogShaderCompilers: Display: Shaders left to compile 2
+[2020.06.24-07.48.09:063][786]LogShaderCompilers: Display: Shaders left to compile 1
+[2020.06.24-07.48.09:068][786]LogMaterial: Missing cached shader map for material M_TunnelBase, compiling. 
+[2020.06.24-07.48.09:076][786]LogShaderCompilers: Display: Shaders left to compile 2
+[2020.06.24-07.48.09:076][786]LogShaderCompilers: Display: Shaders left to compile 1
+[2020.06.24-07.48.09:121][786]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.06.24-07.48.09:133][786]LogShaderCompilers: Display: Shaders left to compile 2
+[2020.06.24-07.48.09:133][786]LogShaderCompilers: Display: Shaders left to compile 1
+[2020.06.24-07.48.09:133][786]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.06.24-07.48.09:144][786]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2020.06.24-07.48.09:152][786]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.06.24-07.48.09:158][786]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2020.06.24-07.48.09:192][786]LogShaderCompilers: Display: Shaders left to compile 8
+[2020.06.24-07.48.09:192][786]LogShaderCompilers: Display: Shaders left to compile 7
+[2020.06.24-07.48.10:351][809]LogShaderCompilers: Display: Shaders left to compile 6
+[2020.06.24-07.48.10:395][810]LogShaderCompilers: Display: Shaders left to compile 5
+[2020.06.24-07.48.10:395][810]LogShaderCompilers: Display: Shaders left to compile 4
+[2020.06.24-07.48.10:467][812]LogShaderCompilers: Display: Shaders left to compile 3
+[2020.06.24-07.48.10:535][814]LogShaderCompilers: Display: Shaders left to compile 2
+[2020.06.24-07.48.10:573][815]LogShaderCompilers: Display: Shaders left to compile 1
+[2020.06.24-07.48.10:611][816]MaterialEditorStats: Base pass shader without light map: 43 instructions
+[2020.06.24-07.48.10:611][816]MaterialEditorStats: Vertex shader: 38 instructions
+[2020.06.24-07.48.10:611][816]MaterialEditorStats: Texture samplers: 2/16
+[2020.06.24-07.48.10:611][816]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.06.24-07.49.07:623][130]LogTexture: Display: Building textures: T_Restart (AutoDXT, 512X512)
+[2020.06.24-07.49.54:239][756]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024538f551f0, Size=4, Default__SKEL_BP_Player_C Function /Game/InfiniteMatrix/Blueprints/BP_Player.SKEL_BP_Player_C:ExecuteUbergraph_BP_Player
+[2020.06.24-07.50.04:876][381]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024538f551f0, Size=4
+[2020.06.24-07.50.04:876][381]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024508c1f738, Size=4, Default__SKEL_BP_Player_C Function /Engine/Transient.REINST_SKEL_BP_Player_C_24:ExecuteUbergraph_BP_Player
+[2020.06.24-07.50.04:880][381]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024508c1f7e0, Size=4, Default__SKEL_BP_Player_C Function /Game/InfiniteMatrix/Blueprints/BP_Player.SKEL_BP_Player_C:ExecuteUbergraph_BP_Player
+[2020.06.24-07.50.07:033][485]LogSlate: Took 0.002098 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.06.24-07.50.08:656][579]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024508c1f7e0, Size=4
+[2020.06.24-07.50.08:656][579]LogUObjectGlobals: Created PersistentFrame Addr=0x00000244c4ae05c8, Size=4, Default__SKEL_BP_Player_C Function /Engine/Transient.REINST_SKEL_BP_Player_C_26:ExecuteUbergraph_BP_Player
+[2020.06.24-07.50.08:658][579]LogUObjectGlobals: Created PersistentFrame Addr=0x00000244c4ae0638, Size=4, Default__SKEL_BP_Player_C Function /Game/InfiniteMatrix/Blueprints/BP_Player.SKEL_BP_Player_C:ExecuteUbergraph_BP_Player
+[2020.06.24-07.50.49:861][  4]LogEditorTransaction: Undo Add Node
+[2020.06.24-07.50.49:864][  4]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000244c4ae0638, Size=4
+[2020.06.24-07.50.49:865][  4]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024508c1ca18, Size=4, Default__SKEL_BP_Player_C Function /Engine/Transient.REINST_SKEL_BP_Player_C_28:ExecuteUbergraph_BP_Player
+[2020.06.24-07.50.49:868][  4]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024508c1c090, Size=4, Default__SKEL_BP_Player_C Function /Game/InfiniteMatrix/Blueprints/BP_Player.SKEL_BP_Player_C:ExecuteUbergraph_BP_Player
+[2020.06.24-07.50.49:886][  4]LogMaterial: Missing cached shader map for material M_TunnelBase, compiling. 
+[2020.06.24-07.50.49:896][  4]LogShaderCompilers: Display: Shaders left to compile 2
+[2020.06.24-07.50.49:896][  4]LogShaderCompilers: Display: Shaders left to compile 1
+[2020.06.24-07.50.50:736][ 41]MaterialEditorStats: Base pass shader without light map: 43 instructions
+[2020.06.24-07.50.50:736][ 41]MaterialEditorStats: Vertex shader: 38 instructions
+[2020.06.24-07.50.50:736][ 41]MaterialEditorStats: Texture samplers: 2/16
+[2020.06.24-07.50.50:736][ 41]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.06.24-07.50.57:730][422]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024508c1c090, Size=4
+[2020.06.24-07.50.57:730][422]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024511078f48, Size=4, Default__SKEL_BP_Player_C Function /Engine/Transient.REINST_SKEL_BP_Player_C_30:ExecuteUbergraph_BP_Player
+[2020.06.24-07.50.57:732][422]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024511079160, Size=4, Default__SKEL_BP_Player_C Function /Game/InfiniteMatrix/Blueprints/BP_Player.SKEL_BP_Player_C:ExecuteUbergraph_BP_Player
+[2020.06.24-07.51.14:935][967]BlueprintLog: New page: Compile BP_Player
+[2020.06.24-07.51.14:943][967]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024511079160, Size=4
+[2020.06.24-07.51.14:943][967]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024508c1ca90, Size=4, Default__SKEL_BP_Player_C Function /Engine/Transient.REINST_SKEL_BP_Player_C_32:ExecuteUbergraph_BP_Player
+[2020.06.24-07.51.14:948][967]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000244ee0d01e0, Size=220
+[2020.06.24-07.51.14:948][967]LogUObjectGlobals: Created PersistentFrame Addr=0x000002452d12c480, Size=220, Default__BP_Player_C Function /Engine/Transient.REINST_BP_Player_C_34:ExecuteUbergraph_BP_Player
+[2020.06.24-07.51.14:950][967]LogUObjectGlobals: Created PersistentFrame Addr=0x000002452d12fc80, Size=220, Default__BP_Player_C Function /Game/InfiniteMatrix/Blueprints/BP_Player.BP_Player_C:ExecuteUbergraph_BP_Player
+[2020.06.24-07.51.15:087][967]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024508c1f738, Size=4
+[2020.06.24-07.51.15:087][967]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000244c4ae05c8, Size=4
+[2020.06.24-07.51.15:087][967]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024508c1ca18, Size=4
+[2020.06.24-07.51.15:087][967]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024511078f48, Size=4
+[2020.06.24-07.51.15:087][967]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024508c1ca90, Size=4
+[2020.06.24-07.51.20:102][253]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InfiniteMatrix/Blueprints/BP_Player" FILE="../../../../../../Unreal/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Player.uasset" SILENT=true
+[2020.06.24-07.51.20:131][253]LogSavePackage: Save=18.66ms
+[2020.06.24-07.51.20:131][253]LogSavePackage: Moving '../../../../../../Unreal/InfiniteMatrixStarter/Saved/BP_Player5B7B000B4BCE25A0137491A1E495EE59.tmp' to '../../../../../../Unreal/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Player.uasset'
+[2020.06.24-07.51.20:135][253]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Player.uasset
+[2020.06.24-07.51.21:484][330]BlueprintLog: New page: Compile BP_Player
+[2020.06.24-07.51.21:496][330]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002452d12fc80, Size=220
+[2020.06.24-07.51.21:496][330]LogUObjectGlobals: Created PersistentFrame Addr=0x000002450a10ada0, Size=220, BP_Player_C_37 Function /Engine/Transient.REINST_BP_Player_C_38:ExecuteUbergraph_BP_Player
+[2020.06.24-07.51.21:498][330]LogUObjectGlobals: Created PersistentFrame Addr=0x000002450a109c20, Size=220, Default__BP_Player_C Function /Game/InfiniteMatrix/Blueprints/BP_Player.BP_Player_C:ExecuteUbergraph_BP_Player
+[2020.06.24-07.51.21:628][330]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002452d12c480, Size=220
+[2020.06.24-07.51.22:129][352]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InfiniteMatrix/Blueprints/BP_Player" FILE="../../../../../../Unreal/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Player.uasset" SILENT=true
+[2020.06.24-07.51.22:150][352]LogSavePackage: Save=19.16ms
+[2020.06.24-07.51.22:150][352]LogSavePackage: Moving '../../../../../../Unreal/InfiniteMatrixStarter/Saved/BP_PlayerF6C7FA7143C67342AA9AB7B190B4CD5E.tmp' to '../../../../../../Unreal/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Player.uasset'
+[2020.06.24-07.51.22:151][352]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Player.uasset
+[2020.06.24-07.52.09:184][990]LogEditorTransaction: Undo Add Node
+[2020.06.24-07.52.09:189][990]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024538f57620, Size=4, Default__SKEL_BP_Player_C Function /Game/InfiniteMatrix/Blueprints/BP_Player.SKEL_BP_Player_C:ExecuteUbergraph_BP_Player
+[2020.06.24-07.52.09:200][990]LogMaterial: Missing cached shader map for material M_TunnelBase, compiling. 
+[2020.06.24-07.52.09:208][990]LogShaderCompilers: Display: Shaders left to compile 2
+[2020.06.24-07.52.09:208][990]LogShaderCompilers: Display: Shaders left to compile 1
+[2020.06.24-07.52.10:061][ 31]MaterialEditorStats: Base pass shader without light map: 43 instructions
+[2020.06.24-07.52.10:062][ 31]MaterialEditorStats: Vertex shader: 38 instructions
+[2020.06.24-07.52.10:062][ 31]MaterialEditorStats: Texture samplers: 2/16
+[2020.06.24-07.52.10:062][ 31]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.06.24-07.52.14:876][318]LogEditorTransaction: Undo Add Node
+[2020.06.24-07.52.14:877][318]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024538f57620, Size=4
+[2020.06.24-07.52.14:877][318]LogUObjectGlobals: Created PersistentFrame Addr=0x000002450c9dfdb0, Size=4, Default__SKEL_BP_Player_C Function /Engine/Transient.REINST_SKEL_BP_Player_C_42:ExecuteUbergraph_BP_Player
+[2020.06.24-07.52.14:880][318]LogUObjectGlobals: Created PersistentFrame Addr=0x000002450c9dc218, Size=4, Default__SKEL_BP_Player_C Function /Game/InfiniteMatrix/Blueprints/BP_Player.SKEL_BP_Player_C:ExecuteUbergraph_BP_Player
+[2020.06.24-07.52.14:892][318]LogMaterial: Missing cached shader map for material M_TunnelBase, compiling. 
+[2020.06.24-07.52.14:956][319]LogShaderCompilers: Display: Shaders left to compile 2
+[2020.06.24-07.52.14:956][319]LogShaderCompilers: Display: Shaders left to compile 1
+[2020.06.24-07.52.15:290][334]MaterialEditorStats: Base pass shader without light map: 43 instructions
+[2020.06.24-07.52.15:290][334]MaterialEditorStats: Vertex shader: 38 instructions
+[2020.06.24-07.52.15:290][334]MaterialEditorStats: Texture samplers: 2/16
+[2020.06.24-07.52.15:290][334]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.06.24-07.54.00:309][440]LogEditorTransaction: Undo Add Node
+[2020.06.24-07.54.00:309][440]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002450c9dc218, Size=4
+[2020.06.24-07.54.00:309][440]LogUObjectGlobals: Created PersistentFrame Addr=0x000002450c0edae8, Size=4, Default__SKEL_BP_Player_C Function /Engine/Transient.REINST_SKEL_BP_Player_C_44:ExecuteUbergraph_BP_Player
+[2020.06.24-07.54.00:311][440]LogUObjectGlobals: Created PersistentFrame Addr=0x000002450c0edd30, Size=4, Default__SKEL_BP_Player_C Function /Game/InfiniteMatrix/Blueprints/BP_Player.SKEL_BP_Player_C:ExecuteUbergraph_BP_Player
+[2020.06.24-07.54.00:321][440]LogMaterial: Missing cached shader map for material M_TunnelBase, compiling. 
+[2020.06.24-07.54.00:329][440]LogShaderCompilers: Display: Shaders left to compile 2
+[2020.06.24-07.54.00:329][440]LogShaderCompilers: Display: Shaders left to compile 1
+[2020.06.24-07.54.01:365][475]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'AActor::K2_AddActorLocalOffset' [Element not found.]
+[2020.06.24-07.54.05:779][728]MaterialEditorStats: Base pass shader without light map: 43 instructions
+[2020.06.24-07.54.05:779][728]MaterialEditorStats: Vertex shader: 38 instructions
+[2020.06.24-07.54.05:779][728]MaterialEditorStats: Texture samplers: 2/16
+[2020.06.24-07.54.05:779][728]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.06.24-07.54.22:790][740]BlueprintLog: New page: Compile BP_Player
+[2020.06.24-07.54.22:798][740]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002450c0edd30, Size=4
+[2020.06.24-07.54.22:798][740]LogUObjectGlobals: Created PersistentFrame Addr=0x000002450cebcbf8, Size=4, Default__SKEL_BP_Player_C Function /Engine/Transient.REINST_SKEL_BP_Player_C_46:ExecuteUbergraph_BP_Player
+[2020.06.24-07.54.22:804][740]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002450a109c20, Size=220
+[2020.06.24-07.54.22:804][740]LogUObjectGlobals: Created PersistentFrame Addr=0x000002450dfb4480, Size=220, Default__BP_Player_C Function /Engine/Transient.REINST_BP_Player_C_48:ExecuteUbergraph_BP_Player
+[2020.06.24-07.54.22:806][740]LogUObjectGlobals: Created PersistentFrame Addr=0x000002450dfb7200, Size=220, Default__BP_Player_C Function /Game/InfiniteMatrix/Blueprints/BP_Player.BP_Player_C:ExecuteUbergraph_BP_Player
+[2020.06.24-07.54.22:939][740]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002450cebcbf8, Size=4
+[2020.06.24-07.54.22:939][740]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002450c0edae8, Size=4
+[2020.06.24-07.54.22:939][740]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002450c9dfdb0, Size=4
+[2020.06.24-07.54.23:582][772]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InfiniteMatrix/Blueprints/BP_Player" FILE="../../../../../../Unreal/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Player.uasset" SILENT=true
+[2020.06.24-07.54.23:616][772]LogSavePackage: Save=31.97ms
+[2020.06.24-07.54.23:616][772]LogSavePackage: Moving '../../../../../../Unreal/InfiniteMatrixStarter/Saved/BP_PlayerCA8D027A4FF612F6A3417F9CF850E9AA.tmp' to '../../../../../../Unreal/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Player.uasset'
+[2020.06.24-07.54.23:618][772]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Player.uasset
+[2020.06.24-07.54.29:712][  4]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.06.24-07.54.29:750][  4]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.24-07.54.29:750][  4]PIE: New page: PIE session: TutorialMap (24-Jun-2020 6:54:29 pm)
+[2020.06.24-07.54.29:750][  4]LogPlayLevel: Creating play world package: /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2020.06.24-07.54.29:751][  4]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001068s)
+[2020.06.24-07.54.29:751][  4]LogAIModule: Creating AISystem for world TutorialMap
+[2020.06.24-07.54.29:752][  4]LogPlayLevel: PIE: World Init took: (0.000572s)
+[2020.06.24-07.54.29:752][  4]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap to /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.001778s)
+[2020.06.24-07.54.29:770][  4]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002450dfb4480, Size=220
+[2020.06.24-07.54.29:779][  4]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.06.24-07.54.29:805][  4]LogInit: FAudioDevice initialized.
+[2020.06.24-07.54.29:905][  4]LogLoad: Game class is 'GM_Tutorial_C'
+[2020.06.24-07.54.29:907][  4]LogWorld: Bringing World /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 60) at 2020.06.24-13.24.29
+[2020.06.24-07.54.29:907][  4]LogWorld: Bringing up level for play took: 0.000475
+[2020.06.24-07.54.29:912][  4]PIE: Play in editor start time for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap -0.774
+[2020.06.24-07.54.37:130][397]LogSlate: Window 'InfiniteMatrix Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.06.24-07.54.44:218][746]BlueprintLog: New page: Compile BP_Player
+[2020.06.24-07.54.44:231][746]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002450dfb7200, Size=220
+[2020.06.24-07.54.44:231][746]LogUObjectGlobals: Created PersistentFrame Addr=0x000002450dfb7200, Size=220, Default__BP_Player_C Function /Engine/Transient.REINST_BP_Player_C_52:ExecuteUbergraph_BP_Player
+[2020.06.24-07.54.44:233][746]LogUObjectGlobals: Created PersistentFrame Addr=0x000002450ce9d300, Size=380, Default__BP_Player_C Function /Game/InfiniteMatrix/Blueprints/BP_Player.BP_Player_C:ExecuteUbergraph_BP_Player
+[2020.06.24-07.54.44:893][771]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InfiniteMatrix/Blueprints/BP_Player" FILE="../../../../../../Unreal/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Player.uasset" SILENT=true
+[2020.06.24-07.54.44:915][771]LogSavePackage: Save=20.29ms
+[2020.06.24-07.54.44:915][771]LogSavePackage: Moving '../../../../../../Unreal/InfiniteMatrixStarter/Saved/BP_PlayerF4E6E5654B3E41508A5BB3B8E93384B1.tmp' to '../../../../../../Unreal/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Player.uasset'
+[2020.06.24-07.54.44:916][771]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Player.uasset
+[2020.06.24-07.54.48:068][960]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.06.24-07.54.48:091][960]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.24-07.54.48:091][960]PIE: New page: PIE session: TutorialMap (24-Jun-2020 6:54:48 pm)
+[2020.06.24-07.54.48:091][960]LogPlayLevel: Creating play world package: /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2020.06.24-07.54.48:092][960]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001000s)
+[2020.06.24-07.54.48:092][960]LogAIModule: Creating AISystem for world TutorialMap
+[2020.06.24-07.54.48:093][960]LogPlayLevel: PIE: World Init took: (0.000515s)
+[2020.06.24-07.54.48:093][960]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap to /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.001608s)
+[2020.06.24-07.54.48:111][960]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002450dfb7200, Size=220
+[2020.06.24-07.54.48:121][960]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.06.24-07.54.48:145][960]LogInit: FAudioDevice initialized.
+[2020.06.24-07.54.48:233][960]LogLoad: Game class is 'GM_Tutorial_C'
+[2020.06.24-07.54.48:235][960]LogWorld: Bringing World /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 60) at 2020.06.24-13.24.48
+[2020.06.24-07.54.48:235][960]LogWorld: Bringing up level for play took: 0.000491
+[2020.06.24-07.54.48:240][960]PIE: Play in editor start time for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap -0.447
+[2020.06.24-07.54.50:581][ 94]LogSlate: Window 'InfiniteMatrix Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.06.24-07.54.52:940][223]LogSavePackage: Save=48.20ms
+[2020.06.24-07.54.52:940][223]LogSavePackage: Moving '../../../../../../Unreal/InfiniteMatrixStarter/Saved/TutorialMap9AC29DA5402051ADED0789A87B10ADCC.tmp' to '../../../../../../Unreal/InfiniteMatrixStarter/Content/InfiniteMatrix/Maps/TutorialMap.umap'
+[2020.06.24-07.54.52:941][223]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal/InfiniteMatrixStarter/Content/InfiniteMatrix/Maps/TutorialMap.umap
+[2020.06.24-07.54.54:953][337]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002450a10ada0, Size=220
+[2020.06.24-07.56.11:192][ 71]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.06.24-08.03.36:905][ 22]BlueprintLog: New page: Compile BP_TunnelSpawner
+[2020.06.24-08.03.37:422][ 39]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InfiniteMatrix/Blueprints/BP_TunnelSpawner" FILE="../../../../../../Unreal/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset" SILENT=true
+[2020.06.24-08.03.37:435][ 39]LogSavePackage: Save=10.66ms
+[2020.06.24-08.03.37:435][ 39]LogSavePackage: Moving '../../../../../../Unreal/InfiniteMatrixStarter/Saved/BP_TunnelSpawner8E97E2094668EE1F346E74B6EDCECF5E.tmp' to '../../../../../../Unreal/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset'
+[2020.06.24-08.03.37:436][ 39]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset
+[2020.06.24-08.03.54:351][ 26]BlueprintLog: New page: Compile BP_TunnelSpawner
+[2020.06.24-08.03.54:940][ 47]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InfiniteMatrix/Blueprints/BP_TunnelSpawner" FILE="../../../../../../Unreal/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset" SILENT=true
+[2020.06.24-08.03.54:963][ 47]LogSavePackage: Save=9.99ms
+[2020.06.24-08.03.54:963][ 47]LogSavePackage: Moving '../../../../../../Unreal/InfiniteMatrixStarter/Saved/BP_TunnelSpawner1A1026FA4225469F301EB6838AB38A62.tmp' to '../../../../../../Unreal/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset'
+[2020.06.24-08.03.54:965][ 47]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset
+[2020.06.24-08.04.55:177][656]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.06.24-08.05.29:702][491]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/InfiniteMatrix/Maps/TutorialMap' took 0.024
+[2020.06.24-08.05.29:704][491]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/InfiniteMatrix/Blueprints/BP_TunnelSpawner] ([1] browsable assets)...
+[2020.06.24-08.05.29:704][491]OBJ SavePackage: Finished generating thumbnails for package [/Game/InfiniteMatrix/Blueprints/BP_TunnelSpawner]
+[2020.06.24-08.05.29:717][491]LogSavePackage: Save=11.13ms
+[2020.06.24-08.05.29:717][491]LogSavePackage: Moving '../../../../../../Unreal/InfiniteMatrixStarter/Saved/BP_TunnelSpawner_Auto1334078DB49A8519EA96B648813E0328D.tmp' to '../../../../../../Unreal/InfiniteMatrixStarter/Saved/Autosaves/Game/InfiniteMatrix/Blueprints/BP_TunnelSpawner_Auto1.uasset'
+[2020.06.24-08.05.29:717][491]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal/InfiniteMatrixStarter/Saved/Autosaves/Game/InfiniteMatrix/Blueprints/BP_TunnelSpawner_Auto1.uasset
+[2020.06.24-08.05.29:717][491]LogFileHelpers: Auto-saving content packages took 0.015
+[2020.06.24-08.05.55:454][ 10]BlueprintLog: New page: Compile BP_TunnelSpawner
+[2020.06.24-08.05.56:052][ 31]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InfiniteMatrix/Blueprints/BP_TunnelSpawner" FILE="../../../../../../Unreal/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset" SILENT=true
+[2020.06.24-08.05.56:066][ 31]LogSavePackage: Save=12.21ms
+[2020.06.24-08.05.56:067][ 31]LogSavePackage: Moving '../../../../../../Unreal/InfiniteMatrixStarter/Saved/BP_TunnelSpawner800E11E241A6863A923BE98BE757E99D.tmp' to '../../../../../../Unreal/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset'
+[2020.06.24-08.05.56:068][ 31]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset
+[2020.06.24-08.06.05:184][574]LogEditorTransaction: Undo Create Pin Link
+[2020.06.24-08.06.05:196][574]LogMaterial: Missing cached shader map for material M_TunnelBase, compiling. 
+[2020.06.24-08.06.05:206][574]LogShaderCompilers: Display: Shaders left to compile 2
+[2020.06.24-08.06.05:206][574]LogShaderCompilers: Display: Shaders left to compile 1
+[2020.06.24-08.06.06:118][615]MaterialEditorStats: Base pass shader without light map: 43 instructions
+[2020.06.24-08.06.06:118][615]MaterialEditorStats: Vertex shader: 38 instructions
+[2020.06.24-08.06.06:118][615]MaterialEditorStats: Texture samplers: 2/16
+[2020.06.24-08.06.06:118][615]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.06.24-08.08.55:940][676]BlueprintLog: New page: Compile BP_TunnelSpawner
+[2020.06.24-08.08.55:946][676]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024550205bf8, Size=4, Default__BP_TunnelSpawner_C Function /Game/InfiniteMatrix/Blueprints/BP_TunnelSpawner.BP_TunnelSpawner_C:ExecuteUbergraph_BP_TunnelSpawner
+[2020.06.24-08.08.57:005][725]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InfiniteMatrix/Blueprints/BP_TunnelSpawner" FILE="../../../../../../Unreal/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset" SILENT=true
+[2020.06.24-08.08.57:027][725]LogSavePackage: Save=13.10ms
+[2020.06.24-08.08.57:027][725]LogSavePackage: Moving '../../../../../../Unreal/InfiniteMatrixStarter/Saved/BP_TunnelSpawner8C76EA204D6544F85DA669A6FD8BEA89.tmp' to '../../../../../../Unreal/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset'
+[2020.06.24-08.08.57:029][725]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset
+[2020.06.24-08.09.01:417][987]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.06.24-08.09.01:440][987]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.24-08.09.01:440][987]PIE: New page: PIE session: TutorialMap (24-Jun-2020 7:09:01 pm)
+[2020.06.24-08.09.01:440][987]LogPlayLevel: Creating play world package: /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2020.06.24-08.09.01:441][987]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001068s)
+[2020.06.24-08.09.01:442][987]LogAIModule: Creating AISystem for world TutorialMap
+[2020.06.24-08.09.01:442][987]LogPlayLevel: PIE: World Init took: (0.000707s)
+[2020.06.24-08.09.01:442][987]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap to /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.001873s)
+[2020.06.24-08.09.01:472][987]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.06.24-08.09.01:499][987]LogInit: FAudioDevice initialized.
+[2020.06.24-08.09.01:600][987]LogLoad: Game class is 'GM_Tutorial_C'
+[2020.06.24-08.09.01:601][987]LogWorld: Bringing World /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 60) at 2020.06.24-13.39.01
+[2020.06.24-08.09.01:601][987]LogWorld: Bringing up level for play took: 0.000485
+[2020.06.24-08.09.01:607][987]PIE: Play in editor start time for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap 0.92
+[2020.06.24-08.09.06:414][263]LogSlate: Window 'InfiniteMatrix Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.06.24-08.09.44:333][926]BlueprintLog: New page: Compile BP_TunnelSpawner
+[2020.06.24-08.09.44:338][926]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024550205bf8, Size=4
+[2020.06.24-08.09.44:338][926]LogUObjectGlobals: Created PersistentFrame Addr=0x000002454f6c8430, Size=4, Default__BP_TunnelSpawner_C Function /Engine/Transient.REINST_BP_TunnelSpawner_C_88:ExecuteUbergraph_BP_TunnelSpawner
+[2020.06.24-08.09.44:340][926]LogUObjectGlobals: Created PersistentFrame Addr=0x000002454f6c8ea8, Size=4, Default__BP_TunnelSpawner_C Function /Game/InfiniteMatrix/Blueprints/BP_TunnelSpawner.BP_TunnelSpawner_C:ExecuteUbergraph_BP_TunnelSpawner
+[2020.06.24-08.09.44:989][950]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InfiniteMatrix/Blueprints/BP_TunnelSpawner" FILE="../../../../../../Unreal/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset" SILENT=true
+[2020.06.24-08.09.45:005][950]LogSavePackage: Save=13.54ms
+[2020.06.24-08.09.45:005][950]LogSavePackage: Moving '../../../../../../Unreal/InfiniteMatrixStarter/Saved/BP_TunnelSpawnerC31E81F24DA3CD3140DFB78101E3836D.tmp' to '../../../../../../Unreal/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset'
+[2020.06.24-08.09.45:007][950]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset
+[2020.06.24-08.09.47:255][ 84]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.06.24-08.09.47:279][ 84]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.24-08.09.47:279][ 84]PIE: New page: PIE session: TutorialMap (24-Jun-2020 7:09:47 pm)
+[2020.06.24-08.09.47:279][ 84]LogPlayLevel: Creating play world package: /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2020.06.24-08.09.47:280][ 84]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001005s)
+[2020.06.24-08.09.47:281][ 84]LogAIModule: Creating AISystem for world TutorialMap
+[2020.06.24-08.09.47:281][ 84]LogPlayLevel: PIE: World Init took: (0.000478s)
+[2020.06.24-08.09.47:281][ 84]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap to /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.001578s)
+[2020.06.24-08.09.47:300][ 84]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002454f6c8430, Size=4
+[2020.06.24-08.09.47:309][ 84]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.06.24-08.09.47:335][ 84]LogInit: FAudioDevice initialized.
+[2020.06.24-08.09.47:419][ 84]LogLoad: Game class is 'GM_Tutorial_C'
+[2020.06.24-08.09.47:420][ 84]LogWorld: Bringing World /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 60) at 2020.06.24-13.39.47
+[2020.06.24-08.09.47:421][ 84]LogWorld: Bringing up level for play took: 0.000475
+[2020.06.24-08.09.47:425][ 84]PIE: Play in editor start time for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap 0.738
+[2020.06.24-08.09.51:188][276]LogSlate: Window 'InfiniteMatrix Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.06.24-08.10.51:677][750]LogEditorActor: Deleted Actor: BP_Tunnel_C
+[2020.06.24-08.10.51:703][750]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2020.06.24-08.11.10:425][386]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.24-08.11.19:563][921]LogSavePackage: Save=19.00ms
+[2020.06.24-08.11.19:563][921]LogSavePackage: Moving '../../../../../../Unreal/InfiniteMatrixStarter/Saved/TutorialMap8FEF4CA94B73F9493BA56CA91308CAF9.tmp' to '../../../../../../Unreal/InfiniteMatrixStarter/Content/InfiniteMatrix/Maps/TutorialMap.umap'
+[2020.06.24-08.11.19:565][921]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal/InfiniteMatrixStarter/Content/InfiniteMatrix/Maps/TutorialMap.umap
+[2020.06.24-08.11.19:595][921]LogFileHelpers: Saving map 'TutorialMap' took 0.116
+[2020.06.24-08.11.20:451][969]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.06.24-08.11.20:479][969]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.24-08.11.20:479][969]PIE: New page: PIE session: TutorialMap (24-Jun-2020 7:11:20 pm)
+[2020.06.24-08.11.20:479][969]LogPlayLevel: Creating play world package: /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2020.06.24-08.11.20:480][969]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001184s)
+[2020.06.24-08.11.20:481][969]LogAIModule: Creating AISystem for world TutorialMap
+[2020.06.24-08.11.20:481][969]LogPlayLevel: PIE: World Init took: (0.000564s)
+[2020.06.24-08.11.20:481][969]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap to /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.001855s)
+[2020.06.24-08.11.20:511][969]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.06.24-08.11.20:539][969]LogInit: FAudioDevice initialized.
+[2020.06.24-08.11.20:630][969]LogLoad: Game class is 'GM_Tutorial_C'
+[2020.06.24-08.11.20:632][969]LogWorld: Bringing World /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 60) at 2020.06.24-13.41.20
+[2020.06.24-08.11.20:632][969]LogWorld: Bringing up level for play took: 0.000413
+[2020.06.24-08.11.20:637][969]PIE: Play in editor start time for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap -0.05
+[2020.06.24-08.11.25:873][276]LogSlate: Window 'InfiniteMatrix Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.06.24-08.11.26:796][323]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.06.24-08.11.26:817][323]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.24-08.11.26:817][323]PIE: New page: PIE session: TutorialMap (24-Jun-2020 7:11:26 pm)
+[2020.06.24-08.11.26:817][323]LogPlayLevel: Creating play world package: /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2020.06.24-08.11.26:818][323]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001043s)
+[2020.06.24-08.11.26:819][323]LogAIModule: Creating AISystem for world TutorialMap
+[2020.06.24-08.11.26:819][323]LogPlayLevel: PIE: World Init took: (0.000480s)
+[2020.06.24-08.11.26:819][323]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap to /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.001622s)
+[2020.06.24-08.11.26:846][323]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.06.24-08.11.26:872][323]LogInit: FAudioDevice initialized.
+[2020.06.24-08.11.26:961][323]LogLoad: Game class is 'GM_Tutorial_C'
+[2020.06.24-08.11.26:962][323]LogWorld: Bringing World /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 60) at 2020.06.24-13.41.26
+[2020.06.24-08.11.26:962][323]LogWorld: Bringing up level for play took: 0.000446
+[2020.06.24-08.11.26:968][323]PIE: Play in editor start time for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap 0.281
+[2020.06.24-08.11.28:944][435]LogSlate: Window 'InfiniteMatrix Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.06.24-08.11.58:728][ 60]BlueprintLog: New page: Compile BP_TunnelSpawner
+[2020.06.24-08.11.58:736][ 60]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002454f6c8ea8, Size=4
+[2020.06.24-08.11.58:736][ 60]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024545b87398, Size=4, Default__BP_TunnelSpawner_C Function /Engine/Transient.REINST_BP_TunnelSpawner_C_92:ExecuteUbergraph_BP_TunnelSpawner
+[2020.06.24-08.11.58:737][ 60]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024545b878c8, Size=4, Default__BP_TunnelSpawner_C Function /Game/InfiniteMatrix/Blueprints/BP_TunnelSpawner.BP_TunnelSpawner_C:ExecuteUbergraph_BP_TunnelSpawner
+[2020.06.24-08.11.59:650][ 94]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InfiniteMatrix/Blueprints/BP_TunnelSpawner" FILE="../../../../../../Unreal/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset" SILENT=true
+[2020.06.24-08.11.59:667][ 94]LogSavePackage: Save=14.53ms
+[2020.06.24-08.11.59:667][ 94]LogSavePackage: Moving '../../../../../../Unreal/InfiniteMatrixStarter/Saved/BP_TunnelSpawner094706344BA8D0120FF70B8DEAC3C742.tmp' to '../../../../../../Unreal/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset'
+[2020.06.24-08.11.59:669][ 94]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset
+[2020.06.24-08.16.45:661][841]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024545b22768, Size=4, Default__SKEL_BP_Tunnel_C Function /Game/InfiniteMatrix/Blueprints/BP_Tunnel.SKEL_BP_Tunnel_C:ExecuteUbergraph_BP_Tunnel
+[2020.06.24-08.16.52:731][240]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024545b22768, Size=4
+[2020.06.24-08.16.52:731][240]LogUObjectGlobals: Created PersistentFrame Addr=0x00000245503db970, Size=4, Default__SKEL_BP_Tunnel_C Function /Engine/Transient.REINST_SKEL_BP_Tunnel_C_96:ExecuteUbergraph_BP_Tunnel
+[2020.06.24-08.16.52:732][240]LogUObjectGlobals: Created PersistentFrame Addr=0x00000245503d8a38, Size=4, Default__SKEL_BP_Tunnel_C Function /Game/InfiniteMatrix/Blueprints/BP_Tunnel.SKEL_BP_Tunnel_C:ExecuteUbergraph_BP_Tunnel
+[2020.06.24-08.16.56:775][470]BlueprintLog: New page: Compile BP_Tunnel
+[2020.06.24-08.16.56:777][470]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000245503d8a38, Size=4
+[2020.06.24-08.16.56:777][470]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024545b239e8, Size=4, Default__SKEL_BP_Tunnel_C Function /Engine/Transient.REINST_SKEL_BP_Tunnel_C_99:ExecuteUbergraph_BP_Tunnel
+[2020.06.24-08.16.56:783][470]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000244d75c3260, Size=8
+[2020.06.24-08.16.56:783][470]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024545b22190, Size=8, Default__BP_Tunnel_C Function /Engine/Transient.REINST_BP_Tunnel_C_102:ExecuteUbergraph_BP_Tunnel
+[2020.06.24-08.16.56:783][470]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024545b21270, Size=8, Default__BP_Tunnel_C Function /Game/InfiniteMatrix/Blueprints/BP_Tunnel.BP_Tunnel_C:ExecuteUbergraph_BP_Tunnel
+[2020.06.24-08.16.56:980][470]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000245503db970, Size=4
+[2020.06.24-08.16.56:981][470]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024545b87398, Size=4
+[2020.06.24-08.16.56:981][470]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024545b239e8, Size=4
+[2020.06.24-08.16.57:536][492]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InfiniteMatrix/Blueprints/BP_Tunnel" FILE="../../../../../../Unreal/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset" SILENT=true
+[2020.06.24-08.16.57:560][492]LogSavePackage: Save=15.65ms
+[2020.06.24-08.16.57:560][492]LogSavePackage: Moving '../../../../../../Unreal/InfiniteMatrixStarter/Saved/BP_Tunnel41AAEEB94B535954D45486866AFA1757.tmp' to '../../../../../../Unreal/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset'
+[2020.06.24-08.16.57:562][492]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset
+[2020.06.24-08.19.14:763][262]BlueprintLog: New page: Compile BP_Tunnel
+[2020.06.24-08.19.14:774][262]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024545b21270, Size=8
+[2020.06.24-08.19.14:774][262]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024545b21270, Size=8, BP_Tunnel_C_17 Function /Engine/Transient.REINST_BP_Tunnel_C_108:ExecuteUbergraph_BP_Tunnel
+[2020.06.24-08.19.14:775][262]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024545b21438, Size=8, Default__BP_Tunnel_C Function /Game/InfiniteMatrix/Blueprints/BP_Tunnel.BP_Tunnel_C:ExecuteUbergraph_BP_Tunnel
+[2020.06.24-08.19.14:969][262]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024545b22190, Size=8
+[2020.06.24-08.19.15:544][286]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InfiniteMatrix/Blueprints/BP_Tunnel" FILE="../../../../../../Unreal/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset" SILENT=true
+[2020.06.24-08.19.15:562][286]LogSavePackage: Save=15.80ms
+[2020.06.24-08.19.15:562][286]LogSavePackage: Moving '../../../../../../Unreal/InfiniteMatrixStarter/Saved/BP_TunnelB020283F4DBBC44ED261E492FE929666.tmp' to '../../../../../../Unreal/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset'
+[2020.06.24-08.19.15:564][286]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset
+[2020.06.24-08.19.26:480][890]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.24-08.19.42:954][816]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.24-08.19.43:040][821]BlueprintLog: New page: Compile BP_Tunnel
+[2020.06.24-08.19.43:048][821]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024545b21438, Size=8
+[2020.06.24-08.19.43:048][821]LogUObjectGlobals: Created PersistentFrame Addr=0x00000245503db4c8, Size=8, Default__BP_Tunnel_C Function /Engine/Transient.REINST_BP_Tunnel_C_114:ExecuteUbergraph_BP_Tunnel
+[2020.06.24-08.19.43:049][821]LogUObjectGlobals: Created PersistentFrame Addr=0x00000245503d8b38, Size=8, Default__BP_Tunnel_C Function /Game/InfiniteMatrix/Blueprints/BP_Tunnel.BP_Tunnel_C:ExecuteUbergraph_BP_Tunnel
+[2020.06.24-08.19.43:245][821]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024545b21270, Size=8
+[2020.06.24-08.19.43:629][834]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InfiniteMatrix/Blueprints/BP_Tunnel" FILE="../../../../../../Unreal/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset" SILENT=true
+[2020.06.24-08.19.43:647][834]LogSavePackage: Save=16.47ms
+[2020.06.24-08.19.43:647][834]LogSavePackage: Moving '../../../../../../Unreal/InfiniteMatrixStarter/Saved/BP_TunnelE2148CEC45CE8AD210604BB9C1BE2382.tmp' to '../../../../../../Unreal/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset'
+[2020.06.24-08.19.43:648][834]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset
+[2020.06.24-08.20.20:024][ 83]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.24-08.20.20:128][ 87]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InfiniteMatrix/Blueprints/BP_Tunnel" FILE="../../../../../../Unreal/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset" SILENT=true
+[2020.06.24-08.20.20:146][ 87]LogSavePackage: Save=15.69ms
+[2020.06.24-08.20.20:146][ 87]LogSavePackage: Moving '../../../../../../Unreal/InfiniteMatrixStarter/Saved/BP_Tunnel0DE29B8A4B218DB2B0F643A8338C242A.tmp' to '../../../../../../Unreal/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset'
+[2020.06.24-08.20.20:147][ 87]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset
+[2020.06.24-08.20.20:995][132]BlueprintLog: New page: Compile BP_Tunnel
+[2020.06.24-08.20.21:002][132]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000245503d8b38, Size=8
+[2020.06.24-08.20.21:002][132]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024509e64910, Size=8, BP_Tunnel_C_35 Function /Engine/Transient.REINST_BP_Tunnel_C_120:ExecuteUbergraph_BP_Tunnel
+[2020.06.24-08.20.21:003][132]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024509e65058, Size=8, Default__BP_Tunnel_C Function /Game/InfiniteMatrix/Blueprints/BP_Tunnel.BP_Tunnel_C:ExecuteUbergraph_BP_Tunnel
+[2020.06.24-08.20.21:198][132]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000245503db4c8, Size=8
+[2020.06.24-08.20.21:749][154]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InfiniteMatrix/Blueprints/BP_Tunnel" FILE="../../../../../../Unreal/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset" SILENT=true
+[2020.06.24-08.20.21:766][154]LogSavePackage: Save=15.70ms
+[2020.06.24-08.20.21:766][154]LogSavePackage: Moving '../../../../../../Unreal/InfiniteMatrixStarter/Saved/BP_Tunnel764F07214265185A6452379BD7F083C9.tmp' to '../../../../../../Unreal/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset'
+[2020.06.24-08.20.21:767][154]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset
+[2020.06.24-08.20.40:708][ 97]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.24-08.20.40:740][ 99]BlueprintLog: New page: Compile BP_Tunnel
+[2020.06.24-08.20.40:748][ 99]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024509e65058, Size=8
+[2020.06.24-08.20.40:748][ 99]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024509e65058, Size=8, Default__BP_Tunnel_C Function /Engine/Transient.REINST_BP_Tunnel_C_126:ExecuteUbergraph_BP_Tunnel
+[2020.06.24-08.20.40:749][ 99]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024509e64950, Size=8, Default__BP_Tunnel_C Function /Game/InfiniteMatrix/Blueprints/BP_Tunnel.BP_Tunnel_C:ExecuteUbergraph_BP_Tunnel
+[2020.06.24-08.20.40:941][ 99]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024509e64910, Size=8
+[2020.06.24-08.21.27:617][920]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024509e66ab8, Size=4, Default__SKEL_BP_Tunnel_C Function /Game/InfiniteMatrix/Blueprints/BP_Tunnel.SKEL_BP_Tunnel_C:ExecuteUbergraph_BP_Tunnel
+[2020.06.24-08.21.34:013][277]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024509e66ab8, Size=4
+[2020.06.24-08.21.34:013][277]LogUObjectGlobals: Created PersistentFrame Addr=0x00000245503dac00, Size=4, Default__SKEL_BP_Tunnel_C Function /Engine/Transient.REINST_SKEL_BP_Tunnel_C_130:ExecuteUbergraph_BP_Tunnel
+[2020.06.24-08.21.34:014][277]LogUObjectGlobals: Created PersistentFrame Addr=0x00000245503da660, Size=4, Default__SKEL_BP_Tunnel_C Function /Game/InfiniteMatrix/Blueprints/BP_Tunnel.SKEL_BP_Tunnel_C:ExecuteUbergraph_BP_Tunnel
+[2020.06.24-08.22.08:173][490]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.24-08.22.08:222][493]BlueprintLog: New page: Compile BP_Tunnel
+[2020.06.24-08.22.08:225][493]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000245503da660, Size=4
+[2020.06.24-08.22.08:225][493]LogUObjectGlobals: Created PersistentFrame Addr=0x000002455f04f420, Size=4, Default__SKEL_BP_Tunnel_C Function /Engine/Transient.REINST_SKEL_BP_Tunnel_C_133:ExecuteUbergraph_BP_Tunnel
+[2020.06.24-08.22.08:231][493]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024509e64950, Size=8
+[2020.06.24-08.22.08:231][493]LogUObjectGlobals: Created PersistentFrame Addr=0x000002455f04f470, Size=8, BP_Tunnel_C_68 Function /Engine/Transient.REINST_BP_Tunnel_C_136:ExecuteUbergraph_BP_Tunnel
+[2020.06.24-08.22.08:232][493]LogUObjectGlobals: Created PersistentFrame Addr=0x000002455f04fdd0, Size=8, Default__BP_Tunnel_C Function /Game/InfiniteMatrix/Blueprints/BP_Tunnel.BP_Tunnel_C:ExecuteUbergraph_BP_Tunnel
+[2020.06.24-08.22.08:432][493]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024509e65058, Size=8
+[2020.06.24-08.22.08:432][493]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002455f04f420, Size=4
+[2020.06.24-08.22.08:432][493]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000245503dac00, Size=4
+[2020.06.24-08.22.09:503][545]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.06.24-08.22.09:536][545]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.24-08.22.09:536][545]PIE: New page: PIE session: TutorialMap (24-Jun-2020 7:22:09 pm)
+[2020.06.24-08.22.09:536][545]LogPlayLevel: Creating play world package: /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2020.06.24-08.22.09:538][545]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001300s)
+[2020.06.24-08.22.09:538][545]LogAIModule: Creating AISystem for world TutorialMap
+[2020.06.24-08.22.09:538][545]LogPlayLevel: PIE: World Init took: (0.000682s)
+[2020.06.24-08.22.09:538][545]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap to /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.002108s)
+[2020.06.24-08.22.09:558][545]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002455f04f470, Size=8
+[2020.06.24-08.22.09:567][545]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.06.24-08.22.09:594][545]LogInit: FAudioDevice initialized.
+[2020.06.24-08.22.09:692][545]LogLoad: Game class is 'GM_Tutorial_C'
+[2020.06.24-08.22.09:693][545]LogWorld: Bringing World /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 60) at 2020.06.24-13.52.09
+[2020.06.24-08.22.09:693][545]LogWorld: Bringing up level for play took: 0.000619
+[2020.06.24-08.22.09:700][545]PIE: Play in editor start time for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap 1.013
+[2020.06.24-08.22.11:758][651]LogSlate: Window 'InfiniteMatrix Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.06.24-08.22.13:533][747]BlueprintLog: New page: Compile BP_Tunnel
+[2020.06.24-08.22.13:540][747]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002455f04fdd0, Size=8
+[2020.06.24-08.22.13:540][747]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024509e65cd0, Size=8, Default__BP_Tunnel_C Function /Engine/Transient.REINST_BP_Tunnel_C_142:ExecuteUbergraph_BP_Tunnel
+[2020.06.24-08.22.13:541][747]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024509e65390, Size=8, Default__BP_Tunnel_C Function /Game/InfiniteMatrix/Blueprints/BP_Tunnel.BP_Tunnel_C:ExecuteUbergraph_BP_Tunnel
+[2020.06.24-08.22.14:164][764]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InfiniteMatrix/Blueprints/BP_Tunnel" FILE="../../../../../../Unreal/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset" SILENT=true
+[2020.06.24-08.22.14:189][764]LogSavePackage: Save=17.68ms
+[2020.06.24-08.22.14:189][764]LogSavePackage: Moving '../../../../../../Unreal/InfiniteMatrixStarter/Saved/BP_Tunnel8A5823D04A3B4BDBAD11D5B0488DD2A8.tmp' to '../../../../../../Unreal/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset'
+[2020.06.24-08.22.14:190][764]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset
+[2020.06.24-08.22.40:818][950]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024509e65cd0, Size=8
+[2020.06.24-08.22.42:532][950]LogSavePackage: Save=1701.60ms
+[2020.06.24-08.22.42:532][950]LogSavePackage: Moving '../../../../../../Unreal/InfiniteMatrixStarter/Saved/TutorialMap_Auto27B13A82246FBC287DFDDE3BBE4AC7F3D.tmp' to '../../../../../../Unreal/InfiniteMatrixStarter/Saved/Autosaves/Game/InfiniteMatrix/Maps/TutorialMap_Auto2.umap'
+[2020.06.24-08.22.42:533][950]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal/InfiniteMatrixStarter/Saved/Autosaves/Game/InfiniteMatrix/Maps/TutorialMap_Auto2.umap
+[2020.06.24-08.22.42:536][950]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/InfiniteMatrix/Maps/TutorialMap' took 1.742
+[2020.06.24-08.22.42:536][950]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.742
+[2020.06.24-08.24.32:931][ 86]LogUObjectGlobals: Created PersistentFrame Addr=0x000002456221f498, Size=4, Default__SKEL_BP_TunnelSpawner_C Function /Game/InfiniteMatrix/Blueprints/BP_TunnelSpawner.SKEL_BP_TunnelSpawner_C:ExecuteUbergraph_BP_TunnelSpawner
+[2020.06.24-08.24.43:804][724]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002456221f498, Size=4
+[2020.06.24-08.24.43:804][724]LogUObjectGlobals: Created PersistentFrame Addr=0x00000245621d4e00, Size=4, Default__SKEL_BP_TunnelSpawner_C Function /Engine/Transient.REINST_SKEL_BP_TunnelSpawner_C_146:ExecuteUbergraph_BP_TunnelSpawner
+[2020.06.24-08.24.43:806][724]LogUObjectGlobals: Created PersistentFrame Addr=0x00000245621d7de8, Size=4, Default__SKEL_BP_TunnelSpawner_C Function /Game/InfiniteMatrix/Blueprints/BP_TunnelSpawner.SKEL_BP_TunnelSpawner_C:ExecuteUbergraph_BP_TunnelSpawner
+[2020.06.24-08.24.46:236][866]BlueprintLog: New page: Compile BP_TunnelSpawner
+[2020.06.24-08.24.46:240][866]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000245621d7de8, Size=4
+[2020.06.24-08.24.46:241][866]LogUObjectGlobals: Created PersistentFrame Addr=0x00000245621d7de8, Size=4, Default__SKEL_BP_TunnelSpawner_C Function /Engine/Transient.REINST_SKEL_BP_TunnelSpawner_C_148:ExecuteUbergraph_BP_TunnelSpawner
+[2020.06.24-08.24.46:245][866]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024545b878c8, Size=4
+[2020.06.24-08.24.46:245][866]LogUObjectGlobals: Created PersistentFrame Addr=0x00000245621d6bd0, Size=4, Default__BP_TunnelSpawner_C Function /Engine/Transient.REINST_BP_TunnelSpawner_C_150:ExecuteUbergraph_BP_TunnelSpawner
+[2020.06.24-08.24.46:247][866]LogUObjectGlobals: Created PersistentFrame Addr=0x00000245621d6588, Size=4, Default__BP_TunnelSpawner_C Function /Game/InfiniteMatrix/Blueprints/BP_TunnelSpawner.BP_TunnelSpawner_C:ExecuteUbergraph_BP_TunnelSpawner
+[2020.06.24-08.24.46:446][866]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000245621d7de8, Size=4
+[2020.06.24-08.24.46:446][866]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000245621d4e00, Size=4
+[2020.06.24-08.24.54:522][338]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InfiniteMatrix/Blueprints/BP_TunnelSpawner" FILE="../../../../../../Unreal/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset" SILENT=true
+[2020.06.24-08.24.54:549][338]LogSavePackage: Save=17.75ms
+[2020.06.24-08.24.54:549][338]LogSavePackage: Moving '../../../../../../Unreal/InfiniteMatrixStarter/Saved/BP_TunnelSpawner8794BFB04D171BF6D7EE13B4559C1C17.tmp' to '../../../../../../Unreal/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset'
+[2020.06.24-08.24.54:550][338]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset
+[2020.06.24-08.27.08:478][987]LogUObjectGlobals: Created PersistentFrame Addr=0x000002456a63f930, Size=4, Default__SKEL_BP_TunnelSpawner_C Function /Game/InfiniteMatrix/Blueprints/BP_TunnelSpawner.SKEL_BP_TunnelSpawner_C:ExecuteUbergraph_BP_TunnelSpawner
+[2020.06.24-08.27.15:985][434]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002456a63f930, Size=4
+[2020.06.24-08.27.15:985][434]LogUObjectGlobals: Created PersistentFrame Addr=0x00000245621d7ef8, Size=4, Default__SKEL_BP_TunnelSpawner_C Function /Engine/Transient.REINST_SKEL_BP_TunnelSpawner_C_154:ExecuteUbergraph_BP_TunnelSpawner
+[2020.06.24-08.27.15:987][434]LogUObjectGlobals: Created PersistentFrame Addr=0x00000245621d7918, Size=4, Default__SKEL_BP_TunnelSpawner_C Function /Game/InfiniteMatrix/Blueprints/BP_TunnelSpawner.SKEL_BP_TunnelSpawner_C:ExecuteUbergraph_BP_TunnelSpawner
+[2020.06.24-08.28.21:561][295]BlueprintLog: New page: Compile BP_TunnelSpawner
+[2020.06.24-08.28.21:565][295]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000245621d7918, Size=4
+[2020.06.24-08.28.21:565][295]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024564f6bd08, Size=4, Default__SKEL_BP_TunnelSpawner_C Function /Engine/Transient.REINST_SKEL_BP_TunnelSpawner_C_156:ExecuteUbergraph_BP_TunnelSpawner
+[2020.06.24-08.28.21:570][295]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000245621d6588, Size=4
+[2020.06.24-08.28.21:570][295]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024564f6bd30, Size=4, BP_TunnelSpawner_C_91 Function /Engine/Transient.REINST_BP_TunnelSpawner_C_158:ExecuteUbergraph_BP_TunnelSpawner
+[2020.06.24-08.28.21:573][295]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024564f6bd00, Size=4, Default__BP_TunnelSpawner_C Function /Game/InfiniteMatrix/Blueprints/BP_TunnelSpawner.BP_TunnelSpawner_C:ExecuteUbergraph_BP_TunnelSpawner
+[2020.06.24-08.28.21:768][295]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024564f6bd08, Size=4
+[2020.06.24-08.28.21:768][295]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000245621d6bd0, Size=4
+[2020.06.24-08.28.21:768][295]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000245621d7ef8, Size=4
+[2020.06.24-08.28.22:070][307]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InfiniteMatrix/Blueprints/BP_TunnelSpawner" FILE="../../../../../../Unreal/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset" SILENT=true
+[2020.06.24-08.28.22:090][307]LogSavePackage: Save=17.19ms
+[2020.06.24-08.28.22:090][307]LogSavePackage: Moving '../../../../../../Unreal/InfiniteMatrixStarter/Saved/BP_TunnelSpawnerC206D7564DFB15DC3369DD95A5E84FBC.tmp' to '../../../../../../Unreal/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset'
+[2020.06.24-08.28.22:091][307]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset
+[2020.06.24-08.28.49:797][555]BlueprintLog: New page: Compile BP_TunnelSpawner
+[2020.06.24-08.28.49:808][555]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024564f6bd00, Size=4
+[2020.06.24-08.28.49:808][555]LogUObjectGlobals: Created PersistentFrame Addr=0x000002456a63fc88, Size=4, Default__BP_TunnelSpawner_C Function /Engine/Transient.REINST_BP_TunnelSpawner_C_162:ExecuteUbergraph_BP_TunnelSpawner
+[2020.06.24-08.28.49:810][555]LogUObjectGlobals: Created PersistentFrame Addr=0x000002456a63f240, Size=4, Default__BP_TunnelSpawner_C Function /Game/InfiniteMatrix/Blueprints/BP_TunnelSpawner.BP_TunnelSpawner_C:ExecuteUbergraph_BP_TunnelSpawner
+[2020.06.24-08.28.49:999][555]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024564f6bd30, Size=4
+[2020.06.24-08.28.50:437][574]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InfiniteMatrix/Blueprints/BP_TunnelSpawner" FILE="../../../../../../Unreal/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset" SILENT=true
+[2020.06.24-08.28.50:457][574]LogSavePackage: Save=17.56ms
+[2020.06.24-08.28.50:457][574]LogSavePackage: Moving '../../../../../../Unreal/InfiniteMatrixStarter/Saved/BP_TunnelSpawnerEFD321CA48D1361F53178F8A22B4B492.tmp' to '../../../../../../Unreal/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset'
+[2020.06.24-08.28.50:458][574]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset
+[2020.06.24-08.29.26:726][542]LogUObjectGlobals: Created PersistentFrame Addr=0x000002456221c808, Size=4, Default__SKEL_BP_Tunnel_C Function /Game/InfiniteMatrix/Blueprints/BP_Tunnel.SKEL_BP_Tunnel_C:ExecuteUbergraph_BP_Tunnel
+[2020.06.24-08.29.31:698][838]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002456221c808, Size=4
+[2020.06.24-08.29.31:698][838]LogUObjectGlobals: Created PersistentFrame Addr=0x000002455f04e380, Size=4, Default__SKEL_BP_Tunnel_C Function /Engine/Transient.REINST_SKEL_BP_Tunnel_C_166:ExecuteUbergraph_BP_Tunnel
+[2020.06.24-08.29.31:699][838]LogUObjectGlobals: Created PersistentFrame Addr=0x000002455f04fc78, Size=4, Default__SKEL_BP_Tunnel_C Function /Game/InfiniteMatrix/Blueprints/BP_Tunnel.SKEL_BP_Tunnel_C:ExecuteUbergraph_BP_Tunnel
+[2020.06.24-08.29.40:073][332]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002455f04fc78, Size=4
+[2020.06.24-08.29.40:073][332]LogUObjectGlobals: Created PersistentFrame Addr=0x000002455f04fc78, Size=4, Default__SKEL_BP_Tunnel_C Function /Engine/Transient.REINST_SKEL_BP_Tunnel_C_168:ExecuteUbergraph_BP_Tunnel
+[2020.06.24-08.29.40:074][332]LogUObjectGlobals: Created PersistentFrame Addr=0x000002455f04da30, Size=4, Default__SKEL_BP_Tunnel_C Function /Game/InfiniteMatrix/Blueprints/BP_Tunnel.SKEL_BP_Tunnel_C:ExecuteUbergraph_BP_Tunnel
+[2020.06.24-08.29.53:329][117]BlueprintLog: New page: Compile BP_Tunnel
+[2020.06.24-08.29.53:332][117]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002455f04da30, Size=4
+[2020.06.24-08.29.53:332][117]LogUObjectGlobals: Created PersistentFrame Addr=0x000002455f04da30, Size=4, Default__SKEL_BP_Tunnel_C Function /Engine/Transient.REINST_SKEL_BP_Tunnel_C_171:ExecuteUbergraph_BP_Tunnel
+[2020.06.24-08.29.53:337][117]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024509e65390, Size=8
+[2020.06.24-08.29.53:337][117]LogUObjectGlobals: Created PersistentFrame Addr=0x000002455f04e3d8, Size=8, Default__BP_Tunnel_C Function /Engine/Transient.REINST_BP_Tunnel_C_174:ExecuteUbergraph_BP_Tunnel
+[2020.06.24-08.29.53:338][117]LogUObjectGlobals: Created PersistentFrame Addr=0x000002455f04d838, Size=8, Default__BP_Tunnel_C Function /Game/InfiniteMatrix/Blueprints/BP_Tunnel.BP_Tunnel_C:ExecuteUbergraph_BP_Tunnel
+[2020.06.24-08.29.53:536][117]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002456a63fc88, Size=4
+[2020.06.24-08.29.53:536][117]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002455f04da30, Size=4
+[2020.06.24-08.29.53:891][130]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InfiniteMatrix/Blueprints/BP_Tunnel" FILE="../../../../../../Unreal/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset" SILENT=true
+[2020.06.24-08.29.53:915][130]LogSavePackage: Save=17.45ms
+[2020.06.24-08.29.53:915][130]LogSavePackage: Moving '../../../../../../Unreal/InfiniteMatrixStarter/Saved/BP_Tunnel672D52A54A76032CEEC864AC702C39B4.tmp' to '../../../../../../Unreal/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset'
+[2020.06.24-08.29.53:917][130]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset
+[2020.06.24-08.32.36:096][195]LogD3D11RHI: Error: Result failed 
+ at D:\Build\++UE4+Release-4.19+Compile\Sync\Engine\Source\Runtime\Windows\D3D11RHI\Private\D3D11Viewport.cpp:303 
+ with error E_INVALIDARG
+[2020.06.24-08.32.36:188][195]LogWindows: Windows GetLastError: The operation completed successfully. (0)
+[2020.06.24-08.32.45:862][195]LogWindows: Windows GetLastError: The operation completed successfully. (0)
+[2020.06.24-08.32.45:876][195]LogWindows: Error: === Critical error: ===
+[2020.06.24-08.32.45:876][195]LogWindows: Error: 
+[2020.06.24-08.32.45:876][195]LogWindows: Error: Fatal error: [File:D:\Build\++UE4+Release-4.19+Compile\Sync\Engine\Source\Runtime\RenderCore\Private\RenderingThread.cpp] [Line: 819] 
+[2020.06.24-08.32.45:876][195]LogWindows: Error: Rendering thread exception:
+[2020.06.24-08.32.45:876][195]LogWindows: Error: Fatal error: [File:D:\Build\++UE4+Release-4.19+Compile\Sync\Engine\Source\Runtime\Windows\D3D11RHI\Private\D3D11Util.cpp] [Line: 233] 
+[2020.06.24-08.32.45:876][195]LogWindows: Error: Result failed 
+[2020.06.24-08.32.45:876][195]LogWindows: Error:  at D:\Build\++UE4+Release-4.19+Compile\Sync\Engine\Source\Runtime\Windows\D3D11RHI\Private\D3D11Viewport.cpp:303 
+[2020.06.24-08.32.45:876][195]LogWindows: Error:  with error E_INVALIDARG
+[2020.06.24-08.32.45:876][195]LogWindows: Error: 
+[2020.06.24-08.32.45:876][195]LogWindows: Error: 
+[2020.06.24-08.32.45:876][195]LogWindows: Error: [Callstack] 0x000000005270A799 KERNELBASE.dll!UnknownFunction []
+[2020.06.24-08.32.45:876][195]LogWindows: Error: [Callstack] 0x000000002A397884 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.06.24-08.32.45:876][195]LogWindows: Error: [Callstack] 0x000000000FC56D9B UE4Editor-Core.dll!UnknownFunction []
+[2020.06.24-08.32.45:876][195]LogWindows: Error: [Callstack] 0x000000000FB91949 UE4Editor-Core.dll!UnknownFunction []
+[2020.06.24-08.32.45:876][195]LogWindows: Error: [Callstack] 0x00000000F021E796 UE4Editor-D3D11RHI.dll!UnknownFunction []
+[2020.06.24-08.32.45:876][195]LogWindows: Error: [Callstack] 0x00000000F01FD62A UE4Editor-D3D11RHI.dll!UnknownFunction []
+[2020.06.24-08.32.45:876][195]LogWindows: Error: [Callstack] 0x00000000F01FD58C UE4Editor-D3D11RHI.dll!UnknownFunction []
+[2020.06.24-08.32.45:877][195]LogWindows: Error: [Callstack] 0x00000000F020AADF UE4Editor-D3D11RHI.dll!UnknownFunction []
+[2020.06.24-08.32.45:877][195]LogWindows: Error: [Callstack] 0x0000000029BDF0B6 UE4Editor-RHI.dll!UnknownFunction []
+[2020.06.24-08.32.45:877][195]LogWindows: Error: [Callstack] 0x00000000EFFB1FF8 UE4Editor-SlateRHIRenderer.dll!UnknownFunction []
+[2020.06.24-08.32.45:877][195]LogWindows: Error: [Callstack] 0x00000000EFFB7C4C UE4Editor-SlateRHIRenderer.dll!UnknownFunction []
+[2020.06.24-08.32.45:877][195]LogWindows: Error: [Callstack] 0x000000000FA6B713 UE4Editor-Core.dll!UnknownFunction []
+[2020.06.24-08.32.45:877][195]LogWindows: Error: [Callstack] 0x000000000FA6BD3A UE4Editor-Core.dll!UnknownFunction []
+[2020.06.24-08.32.45:877][195]LogWindows: Error: [Callstack] 0x000000002B3C3CC9 UE4Editor-RenderCore.dll!UnknownFunction []
+[2020.06.24-08.32.45:877][195]LogWindows: Error: [Callstack] 0x000000002B3C4CF6 UE4Editor-RenderCore.dll!UnknownFunction []
+[2020.06.24-08.32.45:877][195]LogWindows: Error: [Callstack] 0x000000000FE39FFC UE4Editor-Core.dll!UnknownFunction []
+[2020.06.24-08.32.45:877][195]LogWindows: Error: [Callstack] 0x000000000FE2ED63 UE4Editor-Core.dll!UnknownFunction []
+[2020.06.24-08.32.45:877][195]LogWindows: Error: [Callstack] 0x0000000053857BD4 KERNEL32.DLL!UnknownFunction []
+[2020.06.24-08.32.45:877][195]LogWindows: Error: [Callstack] 0x000000005574CE51 ntdll.dll!UnknownFunction []
+[2020.06.24-08.32.45:877][195]LogWindows: Error: [Callstack] 0x000000005574CE51 ntdll.dll!UnknownFunction []
+[2020.06.24-08.32.45:877][195]LogWindows: Error: 
+[2020.06.24-08.32.45:877][195]LogWindows: Error: 
+[2020.06.24-08.32.45:877][195]LogWindows: Error: 
+[2020.06.24-08.32.45:877][195]LogWindows: Error: 
+[2020.06.24-08.32.45:891][195]LogExit: Executing StaticShutdownAfterError
+[2020.06.24-08.32.46:007][195]LogWindows: FPlatformMisc::RequestExit(1)
+[2020.06.24-08.32.46:142][195]Log file closed, 06/24/20 14:02:46
